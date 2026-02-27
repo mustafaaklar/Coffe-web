@@ -1,125 +1,113 @@
-# Kahve Dünyası
+# ☕ Kahve Dünyası
 
 <div align="center">
 
-**Kahve kültürünü, tarihini ve çeşitlerini tanıtan tam kapsamlı bir web deneyimi.**
+### Kahve kültürünü, tarihini ve çeşitlerini modern bir arayüz ile sunan etkileşimli web deneyimi
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge\&logo=github\&logoColor=white)](https://pages.github.com)
 
-[Canlı Demo](https://mustafaaklar.github.io/kahve-dunyasi) · [Hata Bildir](https://github.com/kullanici-adin/kahve-dunyasi/issues) · [Öneri Sun](https://github.com/kullanici-adin/kahve-dunyasi/issues)
+### 🌐 [Canlı Demo](https://mustafaaklar.github.io/Coffe-web)
 
 </div>
 
 ---
 
-## Proje Hakkında
+## 📖 Proje Hakkında
 
-Kahve Dünyası, sıfırdan yazılmış bir frontend projesidir. Herhangi bir framework ya da kütüphane kullanılmadan yalnızca **HTML, CSS ve Vanilla JavaScript** ile geliştirilmiştir.
+Kahve Dünyası, yalnızca **HTML5, CSS3 ve Vanilla JavaScript** kullanılarak sıfırdan geliştirilmiş modern bir frontend projesidir.
 
-Projenin amacı; modern web tasarım prensiplerini, CSS animasyonlarını ve DOM manipülasyonunu gerçek bir içerik sitesi üzerinde pratiğe dökmekti. Kahve teması, görsel açıdan zengin bir içerik sunma fırsatı verdiği için seçildi.
+Bu proje, gerçek bir içerik sitesi üzerinden modern web geliştirme tekniklerini uygulamak, kullanıcı deneyimi odaklı arayüzler oluşturmak ve performanslı animasyon sistemleri geliştirmek amacıyla hazırlanmıştır.
 
----
-
-## Özellikler
-
-| Özellik | Açıklama |
-|---|---|
-| 🎞️ Animasyonlu hero | Yayılan halka efektleri ve CSS keyframe animasyonları |
-| 📸 Fotoğraflı kahve kartları | 16 kahve çeşidi gerçek fotoğraf ve açıklamalarla |
-| 🗂️ Sekmeli kategoriler | JS ile dinamik sekme geçişleri |
-| 📊 Yoğunluk göstergesi | Her kahveye özel animasyonlu güç çubuğu |
-| 🖱️ Özel imleç | `mix-blend-mode` ile altın renkli özel fare imleci |
-| 🎢 Akan yazı şeridi | CSS `animation` ile sonsuz döngülü marquee |
-| 🔢 Sayaç animasyonu | IntersectionObserver ile scroll tetiklemeli sayaç |
-| 👁️ Scroll açılmaları | Sayfa kaydırıldıkça elemanların yukarıdan çıkması |
-| 📱 Responsive tasarım | Mobil, tablet ve masaüstü uyumlu |
-| 🌙 Koyu tema | Kahverengi, krem ve altın renk paleti |
+Herhangi bir framework kullanılmadan, tamamen saf web teknolojileri ile oluşturulmuştur.
 
 ---
 
-## Ekran Görüntüleri
+## ✨ Öne Çıkan Özellikler
 
-> ![Kahve Dünyası](resimler/ScreenShot-1.png)
-
-    (resimler/ScreenShot-1.png)
-
----
-
-## Teknolojiler
-
-
-- **HTML5** — Semantik yapı, erişilebilirlik
-- **CSS3** — Grid, Flexbox, Custom Properties, Keyframe animasyonlar
-- **Vanilla JavaScript** — DOM manipülasyonu, olay dinleyicileri, animasyon mantığı
-- **Google Fonts** — Playfair Display, Libre Baskerville, Jost
+| Özellik                            | Açıklama                                    |
+| ---------------------------------- | ------------------------------------------- |
+| 🎞️ Animasyonlu giriş bölümü       | CSS keyframe tabanlı özel animasyon sistemi |
+| ☕ Kahve çeşitleri sistemi          | 16 farklı kahve türü ve detaylı içerik      |
+| 🎯 Scroll tetiklemeli animasyonlar | IntersectionObserver API kullanımı          |
+| 🔢 Animasyonlu sayaç sistemi       | requestAnimationFrame tabanlı akıcı sayaç   |
+| 🖱️ Özel imleç efekti              | Modern blend-mode kullanımı                 |
+| 🎢 Sonsuz kayan yazı               | Saf CSS animation ile performanslı marquee  |
+| 📱 Tam responsive tasarım          | Mobil, tablet ve masaüstü uyumlu            |
+| 🎨 Modern UI tasarımı              | Kahve temalı profesyonel renk paleti        |
 
 ---
 
-## Dosya Yapısı
+## 🖼️ Ekran Görüntüsü
+
+![Preview](resimler/ScreenShot-1.png)
+![Preview](resimler/ScreenShot-2.png)
+
+---
+
+## 🧠 Kullanılan Teknolojiler
+
+* **HTML5** — Semantik ve erişilebilir yapı
+* **CSS3** — Grid, Flexbox, Animasyonlar, Custom Properties
+* **JavaScript (Vanilla JS)** — DOM manipülasyonu ve animasyon kontrolü
+* **Google Fonts** — Modern tipografi sistemi
+
+---
+
+## 📁 Proje Yapısı
 
 ```
-kahve-dunyasi/
+Coffe-web/
 │
-├── index.html          
-├── style.css           
-├── script.js         
+├── index.html
+├── style.css
+├── script.js
 ├── README.md
 │
-└── resimler/        
-    ├── etiyopya.jpg
+└── resimler/
     ├── espresso.jpg
-    ├── ristretto.jpg
-    ├── americano.jpg
-    ├── turk-kahvesi.jpg
-    ├── pour-over.jpg
-    ├── french-press.jpg
     ├── latte.jpg
     ├── cappuccino.jpg
-    ├── mocha.jpg
-    ├── flat-white.jpg
-    ├── cold-brew.jpg
-    ├── iced-latte.jpg
-    ├── frappe.jpg
-    ├── affogato.jpg
-    ├── egg-coffee.jpg
-    └── filter-coffee.jpg
+    └── ...
 ```
 
 ---
 
-## Bu Projeden Öğrendiklerim
+## 🚀 Öğrenilen ve Uygulanan Konular
 
-Bu proje benim için bir öğrenme süreciydi. Daha önce teorik olarak bildiğim pek çok konuyu ilk kez gerçek bir proje üzerinde uyguladım.
+Bu proje kapsamında aşağıdaki modern web geliştirme konuları pratik edilmiştir:
 
-### CSS Animasyonları ve Keyframe
-
-Daha önce animasyonları çok yüzeysel kullanıyordum. Bu projede `@keyframes`, `animation-delay` ve `animation-fill-mode` gibi özellikleri birlikte kullanarak giriş bölümündeki halka efektini ve akan yazı şeridini sıfırdan yazdım. Animasyonların birbiriyle nasıl senkron çalışması gerektiğini kavradım.
-
-### IntersectionObserver API
-
-Scroll ile tetiklenen açılma animasyonları için `IntersectionObserver` kullandım. Bu API sayesinde sayfa kaydırıldıkça elemanların ekrana girmesini algılayıp CSS class ekleyebildim. `setTimeout` ile gecikme ekleyerek kartların birbiri ardına gelmesini sağladım.
-
-### CSS Custom Properties (Değişkenler)
-
-Tüm renkleri, yazı tiplerini ve tekrar eden değerleri `:root` içinde CSS değişkeni olarak tanımladım. Bu sayede temayı tek bir yerden yönetmek çok kolaylaştı ve kodun okunabilirliği arttı.
-
-### CSS Grid ve Flexbox Birlikte Kullanımı
-
-Sayfa düzenini oluştururken Grid ve Flexbox'ı hangi durumda kullanmam gerektiğini öğrendim. Genel sayfa iskeletinde Grid, navigasyon ve buton gruplarında ise Flexbox tercih ettim.
-
-### DOM Manipülasyonu
-
-Sekme sistemi tamamen JavaScript ile yazıldı. `querySelector`, `classList`, `dataset`, `forEach` gibi metodları gerçek bir ihtiyaç doğrultusunda kullandım. Teoride bildiğim bu metodları pratikte uygulamak çok farklıydı.
-
-### Sayaç Animasyonu Algoritması
-
-Rakam sayaçları için `requestAnimationFrame` ve kolaylaştırıcı (easing) fonksiyon yazdım. Zamanı hesaplayarak rakamın yavaşlayarak hedefe ulaşmasını sağladım. Bu küçük detay kullanıcı deneyimini belirgin şekilde iyileştirdi.
+* CSS Animasyon Sistemleri
+* IntersectionObserver API kullanımı
+* DOM Manipülasyonu
+* Responsive Design prensipleri
+* requestAnimationFrame ile animasyon kontrolü
+* CSS Grid ve Flexbox birlikte kullanımı
+* Modern UI/UX tasarım prensipleri
 
 ---
 
-## Lisans
+## 🌐 Canlı Kullanım
 
-MIT © 2026 [Mustafa Aklar](https://github.com/mustafaaklar)
+Projeyi canlı olarak görüntülemek için:
+
+**https://mustafaaklar.github.io/Coffe-web**
+
+---
+
+## 👨‍💻 Geliştirici
+
+**Mustafa Aklar**
+
+GitHub:
+https://github.com/mustafaaklar
+
+---
+
+## 📄 Lisans
+
+Bu proje MIT lisansı ile lisanslanmıştır.
+
+Portföy ve eğitim amaçlı kullanılabilir.
