@@ -43,6 +43,7 @@ Herhangi bir framework kullanılmadan, tamamen saf web teknolojileri ile oluştu
 ## 🖼️ Ekran Görüntüsü
 
 ![Preview](resimler/ScreenShot-1.png)
+
 ![Preview](resimler/ScreenShot-2.png)
 
 ---
@@ -110,4 +111,4 @@ https://github.com/mustafaaklar
 
 Bu proje MIT lisansı ile lisanslanmıştır.
 
-Portföy ve eğitim amaçlı kullanılabilir.
+MIT © 2026 Mustafa Aklar
