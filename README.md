@@ -98,15 +98,6 @@ Projeyi canlı olarak görüntülemek için:
 
 ---
 
-## 👨‍💻 Geliştirici
-
-**Mustafa Aklar**
-
-GitHub:
-https://github.com/mustafaaklar
-
----
-
 ## 📄 Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır.
